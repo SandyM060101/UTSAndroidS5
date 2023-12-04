@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UTSPEMROGRAMMANWEB" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#FFBF00</item>
+    </style>
+
+    <style name="Theme.UTSPEMROGRAMMANWEB" parent="Base.Theme.UTSPEMROGRAMMANWEB" />
+</resources>
